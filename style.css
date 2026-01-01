@@ -3,9 +3,21 @@ img {
     height: 300px;
 }
 body {
-    /*text-align: center;*/
+    text-align: center;
     font-family: "Arial";
     color:white;
     background-color: black;
     /*This is a comment!*/
+}
+ul  {
+ padding-left:0;   
+}
+ul li  {
+ list-style-position:inside
+}
+ol  {
+ padding-left:0;   
+}
+ol li  {
+ list-style-position:inside
 }

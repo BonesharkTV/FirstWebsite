@@ -69,3 +69,6 @@ img{
     width: 15%;
     height: 20%;
 }
+#profile {
+    border-radius: 50%;
+}
